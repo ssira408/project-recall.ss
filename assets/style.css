@@ -1,0 +1,34 @@
+body {
+    font-family: 'Sarabun', sans-serif;
+    background: #fff;
+    margin: 0;
+}
+header {
+    background: #b40000;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.container {
+    padding: 20px;
+}
+button {
+    background:#b40000; 
+    color:#fff; 
+    border:none; 
+    padding:8px 12px; 
+    border-radius:6px; 
+    cursor:pointer;
+}
+button:hover {
+    background:#e60000;
+}
